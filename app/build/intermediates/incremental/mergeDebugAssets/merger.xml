@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\DevFolder\Android\BRTCBusServices\app\src\main\assets"><file name="brtcBusService" path="E:\DevFolder\Android\BRTCBusServices\app\src\main\assets\brtcBusService"/></source><source path="E:\DevFolder\Android\BRTCBusServices\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\DevFolder\Android\BRTCBusServices\app\src\debug\assets"/></dataSet></merger>

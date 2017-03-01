@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BRTC Bus Services</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_data_data_">/data/data/</string>
+    <string name="international_bus_service">International Bus Service</string>
+
+</resources>

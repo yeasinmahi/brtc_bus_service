@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/busbc"
+    android:orientation="vertical"
+    android:padding="15dp" >
+
+    
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="Route List"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+   
+    <ListView
+        android:id="@id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="false" />
+
+    <TextView
+        android:id="@id/android:empty"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFff00"
+        android:onClick="lvButton"
+        android:text="No data" />
+
+</LinearLayout>

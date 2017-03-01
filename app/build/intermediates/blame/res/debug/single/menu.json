@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

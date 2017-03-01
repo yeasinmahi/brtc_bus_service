@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mybutton.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\drawable\\mybutton.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\busbc.png",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\drawable\\busbc.png"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bc.jpg",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\drawable\\bc.jpg"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mybutton.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\drawable\\mybutton.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unnamed.png",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\drawable\\unnamed.png"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.jpg",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\busbc.png",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\drawable\\busbc.png"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\unnamed.png",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\drawable\\unnamed.png"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bc.jpg",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\drawable\\bc.jpg"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.jpg",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\drawable\\logo.jpg"
+    }
+]

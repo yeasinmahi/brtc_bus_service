@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus_list.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\layout\\bus_list.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus_route.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\layout\\bus_route.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\layout\\custom_row.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\int_bus_route.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\layout\\int_bus_route.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus_list.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\layout\\bus_list.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bus_route.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\layout\\bus_route.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\layout\\custom_row.xml"
+    },
+    {
+        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\int_bus_route.xml",
+        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\layout\\int_bus_route.xml"
+    }
+]

@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    
+    android:background="@drawable/busbc" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_margin="15dp" >
+    
+    <Button
+    android:id="@+id/btnCity"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:textColor="#ffffff"
+    android:background="@drawable/mybutton"
+    android:text="City Service"
+    android:layout_marginBottom="10dp" 
+    android:onClick="city"/>
+    
+    <Button
+    android:id="@+id/btnInterDistrict"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:textColor="#ffffff"
+    android:background="@drawable/mybutton"
+    android:text="Inter District Service"
+    android:layout_marginBottom="10dp"
+    android:onClick="interDrictict" />
+    
+    <Button
+    android:id="@+id/btnInternational"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:textColor="#ffffff"
+    android:background="@drawable/mybutton"
+    android:text="International Bus Service"
+    android:layout_marginBottom="10dp"
+    android:onClick="international" />
+    
+    <Button
+    android:id="@+id/btnSchool"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:textColor="#ffffff"
+    android:background="@drawable/mybutton"
+    android:text="School Service" 
+    android:onClick="school"
+    android:layout_marginBottom="10dp"
+    />
+    </LinearLayout>
+    
+
+</LinearLayout>
