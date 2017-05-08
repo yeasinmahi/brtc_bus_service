@@ -1,9 +1,5 @@
 [
     {
-        "merged": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "E:\\DevFolder\\Android\\BRTCBusServices1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
         "source": "E:\\DevFolder\\Android\\BRTCBusServices\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
